@@ -39,7 +39,7 @@ class MyFrame extends JFrame
 		
 		setBounds(200, 200, 500, 580); 
 		//setIconImage(); //aniadir una imagen de icono
-		setTitle("Programa"); //Titulo del programa
+		setTitle("Login"); //Titulo del programa
 		setResizable(true); //maximizar, minimizar
 		setLocationRelativeTo(null);
 		
