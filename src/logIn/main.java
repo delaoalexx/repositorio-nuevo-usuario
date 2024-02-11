@@ -37,8 +37,7 @@ class MyFrame extends JFrame
 		int positionHeight = screenHeight/2;
 		
 		
-		setBounds(200, 200, 500, 580); 
-		//setIconImage(); //aniadir una imagen de icono
+		setBounds(200, 200, 500, 580);
 		setTitle("Login"); //Titulo del programa
 		setResizable(true); //maximizar, minimizar
 		setLocationRelativeTo(null);
